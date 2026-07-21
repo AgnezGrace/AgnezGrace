@@ -1,4 +1,4 @@
-# Hi there, I'm Agnez Grace 👋
+# Hey everyone... 
 
 Welcome to my digital workspace. I build interactive tools, learning resources, and demonstration modules designed to support academic research, scientific writing, and self-paced learning.
 
