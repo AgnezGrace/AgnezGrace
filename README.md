@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi there, I'm Agnez Grace 👋
 
-<!--
-**AgnezGrace/AgnezGrace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my digital workspace. I build interactive tools, learning resources, and demonstration modules designed to support academic research, scientific writing, and self-paced learning.
 
-Here are some ideas to get you started:
+## 🛠️ Interactive Tools & Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*   **[Mini Pixel](https://agnezgrace.github.io/mini-pixel/)** — A web-based retro pixel art editor featuring grid resolutions, layer management, and seamless export options.
+*   **[YOURS](https://github.com/AgnezGrace/YOURS/)** — An offline-first Progressive Web App (PWA) for writing, organizing, and reading personal novels, featuring rich-text editing, auto-save, and local library backup support.
+
+## 📚 Focus & Interests
+
+*   Developing intuitive, web-based visual aids and educational tools.
+*   Drafting comprehensive technical documentation and academic research.
+*   Exploring lightweight web technologies and client-side database solutions.
+
+---
+*Feel free to explore my repositories or reach out for academic collaborations.*
