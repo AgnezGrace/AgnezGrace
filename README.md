@@ -1,7 +1,8 @@
 # Hey everyone... 
 
-Welcome to my digital workspace. I build interactive tools, learning resources, and demonstration modules designed to support academic research, scientific writing, and self-paced learning.
+Welcome to the official workspace of LUNARICA. This profile serves as the interactive digital repository developed by **Agnez Grace**, lead engineer at LUNARICA. 
 
+We build specialized tools, visual simulators, and open-source demonstration modules designed to support academic research, technical development, and self-paced learning.
 ## 🛠️ Interactive Tools & Projects
 
 *   **[Cosmic Spirograph](https://github.com/AgnezGrace/Cosmic-Spirograph-)** — An interactive geometric motion engine and mathematical spirograph generator featuring adjustable harmonic gears, friction damping, custom color gradients, and high-resolution exports.
