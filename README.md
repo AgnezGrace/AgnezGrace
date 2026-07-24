@@ -55,7 +55,7 @@ Our engineering focus centers on building lightweight, zero-telemetry, client-si
 - **Cover Layout Generator:** Custom gradient presets, typographic hierarchy engines, and user gallery image uploads.
 - **Drafting Workspace:** Rich-text chapter editors equipped with theme paletting (Sage, Lavender, Berry, Ocean), real-time word counters, and JSON library backups.
 
-### 🏛️ [ETHOS & Manifesto]
+### 🏛️ [ETHOS]
 *High-Contrast Personal Philosophy & Portfolio Hub*
 - **Systemic Logic Showcase:** A curated digital archive exploring design restraint, high-contrast monochrome aesthetics, and open-source project indexing.
 
